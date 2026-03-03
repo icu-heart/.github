@@ -56,7 +56,7 @@ Reusable code, templates, and tooling shared across projects.
 |:---:|:---|:---|:---:|:---:|
 | 🔗 | [icu-heart.github.io](https://github.com/icu-heart/icu-heart.github.io) | Source code for the ICU-HEART website | `HTML` `CSS` `JS` | Jan 2026 |
 | 🔒 | [cookbook](https://github.com/icu-heart/cookbook) | Documentation of processes, problems and solutions - mostly around software | `Markdown` | Jan 2026 |
-| 🔒 | [publication-extras](https://github.com/icu-heart/publication-extras) | Additional materials related to publications or conference presentations | `Markdown` `PDF` | Jan 2026 |
+| 🔗 | [publication-extras](https://github.com/icu-heart/publication-extras) | Additional materials related to publications or conference presentations | `Markdown` `PDF` | Jan 2026 |
 
 ---
 
