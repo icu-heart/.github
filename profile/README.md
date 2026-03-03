@@ -33,7 +33,7 @@ Tools and pipelines for harmonising, extracting, and standardising critical care
 | | Repository | Description | Language | Last Updated |
 |:---:|:---|:---|:---:|:---:|
 | 🔒 | [icca_alignment_scotland](https://github.com/icu-heart/icca_alignment_scotland) | Multi-site ICCA variable alignment & SQL generation for Scottish ICUs | `YAML` `Python` | Mar 2026 |
-| 🔒 | [icca_alignment_scotland_demo](https://github.com/icu-heart/icca_alignment_template) | Template repository for demo-ing slightly the alignment workflow | `YAML` `Python` | Jan 2026 |
+| 🔒 | [icca_alignment_scotland_demo](https://github.com/icu-heart/icca_alignment_demo) | Template repository for demo-ing slightly the alignment workflow | `YAML` `Python` | Jan 2026 |
 
 ### 🫀 Cardiovascular & Critical Care Outcomes
 
