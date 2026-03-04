@@ -42,7 +42,7 @@ Research projects and software related to cardiovascular & critical care outcome
 | | Repository | Description | Language | Last Updated |
 |:---:|:---|:---|:---:|:---:|
 | 🔒 | [atriumdb](https://github.com/icu-heart/atriumdb) | Minimal fork of AtriumDB for localisation tweaks | `Python` | Jan 2026 |
-| 🔒 | [atriumdb-server](https://github.com/icu-heart/atriumdb-server) | Minimal fork of AtriumDB-Server for local changes for deployment | `Python` | Jan 2026 |
+|
 
 ### 🤖 Machine Learning & Modelling
 
