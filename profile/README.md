@@ -32,7 +32,6 @@ Tools and pipelines for harmonising, extracting, and standardising critical care
 
 | | Repository | Description | Language | Last Updated |
 |:---:|:---|:---|:---:|:---:|
-| 🔗 | [icu-heart-mindray-waveform-adapter](https://github.com/icu-heart/icu-heart-mindray-waveform-adapter) | Code for streaming continuous waveform monitoring data from Mindray monitors and converting to a common format for storage with [AtriumDB](https://github.com/LaussenLabs/atriumdb) | `Python` | Apr 2026 |
 | 🔒 | [icca_alignment_scotland](https://github.com/icu-heart/icca_alignment_scotland) | Multi-site ICCA variable alignment & SQL generation for Scottish ICUs | `YAML` `Python` | Mar 2026 |
 | 🔒 | [icca_alignment_scotland_demo](https://github.com/icu-heart/icca_alignment_demo) | Template repository for demo-ing slightly the alignment workflow | `YAML` `Python` | Jan 2026 |
 
@@ -43,6 +42,7 @@ Research projects and software related to cardiovascular & critical care outcome
 | | Repository | Description | Language | Last Updated |
 |:---:|:---|:---|:---:|:---:|
 | 🔒 | [atriumdb](https://github.com/icu-heart/atriumdb) | Minimal fork of AtriumDB for localisation tweaks | `Python` | Jan 2026 |
+| 🔗 | [icu-heart-mindray-waveform-adapter](https://github.com/icu-heart/icu-heart-mindray-waveform-adapter) | Code for streaming continuous waveform monitoring data from Mindray monitors and converting to a common format for storage with [AtriumDB](https://github.com/LaussenLabs/atriumdb) | `Python` | Apr 2026 |
 
 ### 🤖 Machine Learning & Modelling
 
